@@ -1,0 +1,35 @@
+.agents/skills/cartodex/SKILL.md
+  s_27c4d2c4727b1f::t_900cdbfabd290d 48
+.agents/skills/cartodex/resources/configuration-guide.md
+  s_27c4d2c4727b1f::t_c373dee94cdc6f 48,113,162
+README.md
+  s_27c4d2c4727b1f::t_8397ca78313808 95,108
+packages/cartodex/README.md
+  s_27c4d2c4727b1f::t_e3951894cf5b92 95,108
+packages/cartodex/src/config.ts
+  s_27c4d2c4727b1f::t_e879c6f5046c91 6
+packages/cartodex/src/templates/skill/SKILL.md
+  s_27c4d2c4727b1f::t_3c9970cbae0181 47
+packages/cartodex/src/templates/skill/resources/configuration-guide.md
+  s_27c4d2c4727b1f::t_7dc86a18dc1300 47,112,161
+packages/cartodex/tests/init.test.ts
+  s_27c4d2c4727b1f::t_f2e8e1f78c67fc 210,283
+packages/runtime/src/config.ts
+  s_27c4d2c4727b1f::t_8baf9743642ebf 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "076f0565a9c0ae29e852c7ed18f6c6eef4c4702c",
+  "prompts": {},
+  "sessions": {
+    "s_27c4d2c4727b1f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0e220-28ab-7171-a4a1-adc333485b99",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Igor <hirzhek@gmail.com>"
+    }
+  }
+}
