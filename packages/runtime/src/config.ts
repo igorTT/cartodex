@@ -3,7 +3,7 @@ import { isAbsolute, join, posix } from "node:path";
 
 export const CARTODEX_CONFIG_FILE = "cartodex.config.json";
 const DEFAULT_MAP_PATH = "docs/CARTODEX_MAP.md";
-const DEFAULT_SCOUT_AGENT_MODEL = "gpt-5.6-luna";
+const DEFAULT_SCOUT_AGENT_MODEL = "gpt-6-luna";
 const DEFAULT_SCOUT_AGENT_REASONING_EFFORT = "high";
 
 interface CartodexConfig {
