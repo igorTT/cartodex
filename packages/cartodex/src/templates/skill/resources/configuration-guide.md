@@ -44,7 +44,7 @@ Add `cartodex.config.json` at the repository root when the defaults no longer fi
   "mapPath": "docs/CARTODEX_MAP.md",
   "ignore": ["docs/private/", "local-notes.md"],
   "scoutAgent": {
-    "model": "gpt-5.6-luna",
+    "model": "gpt-6-luna",
     "reasoningEffort": "high"
   }
 }
@@ -109,7 +109,7 @@ Example:
 ```json
 {
   "scoutAgent": {
-    "model": "gpt-5.6-luna",
+    "model": "gpt-6-luna",
     "reasoningEffort": "high"
   }
 }
@@ -158,7 +158,7 @@ Use this when generated documentation is large and repeats information available
 ```json
 {
   "scoutAgent": {
-    "model": "gpt-5.6-luna",
+    "model": "gpt-6-luna",
     "reasoningEffort": "high"
   }
 }
